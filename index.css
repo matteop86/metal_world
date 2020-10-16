@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&display=swap');
+h1, h2, h3, h4, h5, a {
+    font-family: 'Grenze Gotisch', cursive;
+    text-align: center;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+ h1, h2, h3, h4, h5, h6, a {
+    color: white
+
+}
+* {
+    box-sizing: border-box;
+    padding: 8px;
+    border: 5px;
+    margin: 0px;
+    content: 15px;
+}
+ audio {
+    position: absolute;
+    right: 2px;
+    margin-top: -45px;
+    left: 800px;
+    border: 100px; 
+}
